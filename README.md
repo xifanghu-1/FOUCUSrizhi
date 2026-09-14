@@ -1,2 +1,1 @@
-# FOUCUSrizhi
-FOUCUS团队
+# FOUCUSrizhi  
